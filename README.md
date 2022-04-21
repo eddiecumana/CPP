@@ -1,5 +1,5 @@
 # CPP
-Simpple Misc C++ Apps
+Here are some fun and easy C++ Applications
 
 # Links to Demos
 
