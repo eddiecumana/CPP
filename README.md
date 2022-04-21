@@ -1,7 +1,7 @@
 # CPP
 Misc C++ Apps
 
-# Links to Live Demos
+# Links to Demos
 
 TriangleType: https://www.jdoodle.com/ia/pU7
 
