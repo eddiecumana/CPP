@@ -23,7 +23,7 @@ int main()
 
     cout << "Hello, " << userName << endl;
     cout << "Your monthly income is " << (secondResponse / 12) << endl;
-    cout << "Now in twenty years, your earnings will be roughly " << (yearly * 20) << endl; // not working 100% with some large amounts.
+    cout << "Now in twenty years, your earnings will be roughly " << int(yearly * 20) << endl;
 
     return 0;
 
